@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CurriculoGerenciator.Application\CurriculoGerenciator.Application.csproj" />
+    <ProjectReference Include="..\CurriculoGerenciator.Domain\CurriculoGerenciator.Domain.csproj" />
+    <ProjectReference Include="..\CurriculoGerenciator.Infra\CurriculoGerenciator.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

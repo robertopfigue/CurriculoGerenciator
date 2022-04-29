@@ -1,0 +1,12 @@
+C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Application\bin\Debug\net6.0\CurriculoGerenciator.Application.deps.json
+C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Application\bin\Debug\net6.0\CurriculoGerenciator.Application.dll
+C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Application\bin\Debug\net6.0\CurriculoGerenciator.Application.pdb
+C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Application\obj\Debug\net6.0\CurriculoGerenciator.Application.csproj.AssemblyReference.cache
+C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Application\obj\Debug\net6.0\CurriculoGerenciator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Application\obj\Debug\net6.0\CurriculoGerenciator.Application.AssemblyInfoInputs.cache
+C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Application\obj\Debug\net6.0\CurriculoGerenciator.Application.AssemblyInfo.cs
+C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Application\obj\Debug\net6.0\CurriculoGerenciator.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Application\obj\Debug\net6.0\CurriculoGerenciator.Application.dll
+C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Application\obj\Debug\net6.0\refint\CurriculoGerenciator.Application.dll
+C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Application\obj\Debug\net6.0\CurriculoGerenciator.Application.pdb
+C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Application\obj\Debug\net6.0\ref\CurriculoGerenciator.Application.dll
