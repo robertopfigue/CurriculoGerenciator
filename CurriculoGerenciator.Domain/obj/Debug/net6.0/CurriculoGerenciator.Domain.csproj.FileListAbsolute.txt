@@ -25,3 +25,17 @@ C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\obj\Debu
 C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\obj\Debug\net6.0\ref\CurriculoGerenciator.Domain.dll
 C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.pdb
 C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.genruntimeconfig.cache
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\bin\Debug\net6.0\CurriculoGerenciator.Domain.deps.json
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\bin\Debug\net6.0\CurriculoGerenciator.Domain.runtimeconfig.json
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\bin\Debug\net6.0\CurriculoGerenciator.Domain.dll
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\bin\Debug\net6.0\CurriculoGerenciator.Domain.pdb
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.AssemblyInfo.cs
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.dll
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\obj\Debug\net6.0\refint\CurriculoGerenciator.Domain.dll
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.pdb
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.genruntimeconfig.cache
+C:\Users\rober\source\repos\CurriculoGerenciator\CurriculoGerenciator.Domain\obj\Debug\net6.0\ref\CurriculoGerenciator.Domain.dll

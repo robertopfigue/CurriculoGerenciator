@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rpfigueiredo\\Desktop\\ProjetoBugado\\CurriculoGerenciator.Domain\\CurriculoGerenciator.Domain.csproj": {}
+    "C:\\Users\\rober\\source\\repos\\CurriculoGerenciator\\CurriculoGerenciator.Domain\\CurriculoGerenciator.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rpfigueiredo\\Desktop\\ProjetoBugado\\CurriculoGerenciator.Domain\\CurriculoGerenciator.Domain.csproj": {
+    "C:\\Users\\rober\\source\\repos\\CurriculoGerenciator\\CurriculoGerenciator.Domain\\CurriculoGerenciator.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rpfigueiredo\\Desktop\\ProjetoBugado\\CurriculoGerenciator.Domain\\CurriculoGerenciator.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\source\\repos\\CurriculoGerenciator\\CurriculoGerenciator.Domain\\CurriculoGerenciator.Domain.csproj",
         "projectName": "CurriculoGerenciator.Domain",
-        "projectPath": "C:\\Users\\rpfigueiredo\\Desktop\\ProjetoBugado\\CurriculoGerenciator.Domain\\CurriculoGerenciator.Domain.csproj",
-        "packagesPath": "C:\\Users\\rpfigueiredo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rpfigueiredo\\Desktop\\ProjetoBugado\\CurriculoGerenciator.Domain\\obj\\",
+        "projectPath": "C:\\Users\\rober\\source\\repos\\CurriculoGerenciator\\CurriculoGerenciator.Domain\\CurriculoGerenciator.Domain.csproj",
+        "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rober\\source\\repos\\CurriculoGerenciator\\CurriculoGerenciator.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rpfigueiredo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://srvv24:9090/nuget": {},
-          "http://tfs.smarapd.com.br/tfs/SMARAPD/_packaging/SMARAPD-NuGet/nuget/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
