@@ -10,7 +10,7 @@ namespace CurriculoGerenciator.Infra
         public CurriculoContext CreateDbContext(string[] args)
         {
             var environmentName = Environment.GetEnvironmentVariable("ASPNETCPRE_ENVIROMENT");
-            var fileName = Directory.GetCurrentDirectory() + $"/../CurriculoGerenciator.Interface/appsettings.{environmentName}.json";
+            var fileName = Directory.GetCurrentDirectory() + $"/../CurriculoGerenciator.Interface/appsettings.json";
 
             var configuration = new ConfigurationBuilder()
                 .AddJsonFile(fileName)

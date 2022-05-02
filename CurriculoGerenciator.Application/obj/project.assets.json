@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rober\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\rpfigueiredo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CurriculoGerenciator\\CurriculoGerenciator.Application\\CurriculoGerenciator.Application.csproj",
+      "projectUniqueName": "C:\\Users\\rpfigueiredo\\Desktop\\ProjetoBugado\\CurriculoGerenciator.Application\\CurriculoGerenciator.Application.csproj",
       "projectName": "CurriculoGerenciator.Application",
-      "projectPath": "C:\\Projetos\\CurriculoGerenciator\\CurriculoGerenciator.Application\\CurriculoGerenciator.Application.csproj",
-      "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CurriculoGerenciator\\CurriculoGerenciator.Application\\obj\\",
+      "projectPath": "C:\\Users\\rpfigueiredo\\Desktop\\ProjetoBugado\\CurriculoGerenciator.Application\\CurriculoGerenciator.Application.csproj",
+      "packagesPath": "C:\\Users\\rpfigueiredo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rpfigueiredo\\Desktop\\ProjetoBugado\\CurriculoGerenciator.Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rpfigueiredo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +28,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://srvv24:9090/nuget": {},
+        "http://tfs.smarapd.com.br/tfs/SMARAPD/_packaging/SMARAPD-NuGet/nuget/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

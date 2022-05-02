@@ -12,3 +12,16 @@ C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Domain\obj\Debug\net6.0\Cu
 C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Domain\obj\Debug\net6.0\ref\CurriculoGerenciator.Domain.dll
 C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Domain\bin\Debug\net6.0\CurriculoGerenciator.Domain.runtimeconfig.json
 C:\Projetos\CurriculoGerenciator\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.genruntimeconfig.cache
+C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\bin\Debug\net6.0\CurriculoGerenciator.Domain.deps.json
+C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\bin\Debug\net6.0\CurriculoGerenciator.Domain.runtimeconfig.json
+C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\bin\Debug\net6.0\CurriculoGerenciator.Domain.dll
+C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\bin\Debug\net6.0\ref\CurriculoGerenciator.Domain.dll
+C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\bin\Debug\net6.0\CurriculoGerenciator.Domain.pdb
+C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.AssemblyInfoInputs.cache
+C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.AssemblyInfo.cs
+C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.dll
+C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\obj\Debug\net6.0\ref\CurriculoGerenciator.Domain.dll
+C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.pdb
+C:\Users\rpfigueiredo\Desktop\ProjetoBugado\CurriculoGerenciator.Domain\obj\Debug\net6.0\CurriculoGerenciator.Domain.genruntimeconfig.cache
